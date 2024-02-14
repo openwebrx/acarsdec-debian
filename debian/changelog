@@ -1,5 +1,5 @@
-acarsdec (3.7-1) UNRELEASED; urgency=low
+acarsdec (3.7-1) bullseye; urgency=low
 
   * First build
 
- -- Jakob Ketterl <jakob.ketterl@gmx.de>  Wed, 14 Feb 2024 04:19:00 +0000
+ -- Jakob Ketterl <jakob.ketterl@gmx.de>  Wed, 14 Feb 2024 16:10:00 +0000
